@@ -15,7 +15,7 @@
         "doctrine/orm": "^3.7.0",
         "firebase/php-jwt": "dev-main",
         "giggsey/libphonenumber-for-php": "^8.13.55",
-        "mesilov/bitrix24-php-lib": "dev-dev",
+        "mesilov/bitrix24-php-lib": "0.3.0",
         "nelmio/cors-bundle": "^2.0@dev",
         "nesbot/carbon": "^3",
         "nyholm/psr7": ">=1.8",

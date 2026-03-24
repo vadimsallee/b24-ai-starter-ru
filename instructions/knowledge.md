@@ -164,6 +164,7 @@ knowledge.md (этот файл) - центральный узел
 
 ### Официальная документация
 - **REST API:** <https://apidocs.bitrix24.ru/>  
+- **Bitrix24 MCP server:** <https://apidocs.bitrix24.ru/sdk/mcp.html>
 - **JavaScript SDK:** <https://github.com/bitrix24/b24jssdk>
 - **UI Kit:** <https://bitrix24.github.io/b24ui/llms-full.txt>
 
@@ -185,11 +186,11 @@ knowledge.md (этот файл) - центральный узел
 - Всегда проверяй версии SDK и API
 - Обращай внимание на deprecated методы
 - Используй современные практики разработки
+- При работе с REST API используй MCP server, если он доступен
 
 ---
 
 *Обновлено: 25 ноября 2025*
 *Версия: 2.0 - Модульная архитектура знаний*
-
 
 

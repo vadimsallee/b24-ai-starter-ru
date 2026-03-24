@@ -48,6 +48,11 @@ npx nuxi module add @bitrix24/b24jssdk-nuxt
 
 ## Основные требования для разработки
 
+### MCP server
+
+Для уточнения методов и параметров REST API используйте **Bitrix24 MCP server**.  
+См. также: [инструкция по MCP](../bitrix24/mcp.md) и официальная страница https://apidocs.bitrix24.ru/sdk/mcp.html
+
 ### 1. Выбор режима работы
 
 #### **B24Frame** — для приложений в iframe Bitrix24
@@ -588,4 +593,3 @@ async function getData() {
 **Версия документа:** 1.0  
 **Дата:** 2025-10-23  
 **SDK версия:** 0.4.10
-

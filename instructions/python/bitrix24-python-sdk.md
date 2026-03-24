@@ -36,6 +36,11 @@ starter-kit/
 
 ### Технологический стек
 
+### MCP server
+
+Для уточнения методов и параметров REST API используйте **Bitrix24 MCP server**.  
+См. также: [инструкция по MCP](../bitrix24/mcp.md) и официальная страница https://apidocs.bitrix24.ru/sdk/mcp.html
+
 **Frontend:**
 - Nuxt 3 (Vue 3, TypeScript)
 - Bitrix24 UI Kit (`@bitrix24/b24ui-nuxt`)
